@@ -1,0 +1,10 @@
+
+WP_URL = "https://brasilbitcoinnow.com.br/"
+WP_USER = "manus@manus.com"
+WP_APP_PASSWORD = "fbNK RVjq RbjH Q1YO zxBP SEmX"
+
+PEXELS_API_KEY = "9ezzc78Lo1Hj5IyuGiQBcZUccqOeIa78H93Yd1slPdy8LRB0a0TnlkqH"
+
+COINGECKO_API_KEY = "CG-aKW4rCzFoFqBqrRXz9Dpcfps"
+COINMARKETCAP_API_KEY = "45e4bc385fa143be949346d7a7824156"
+SERPAPI_API_KEY = "86464f04480c6f661ce60b95eb66deed87fb6f9c34d82943c5e57cb8d69f1808"
